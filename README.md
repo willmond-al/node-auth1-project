@@ -18,6 +18,7 @@ Follow these steps to set up and work on your project:
 
 ### Task 2: Minimum Viable Product
 
+
 Complete the following endpoints:
 
 | Method | Endpoint      | Description                                                                                                                                                                                                                                                                                         |
